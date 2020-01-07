@@ -1,0 +1,17 @@
+body,html{
+ background-color: lightpink;
+
+}
+
+h1 {
+color: white;
+font-size: 50px;
+
+}
+.blurb{
+  color:white;
+}
+.main{
+  padding-left: 10vw;
+  padding-top: 35vh;
+}
