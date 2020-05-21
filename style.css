@@ -1,5 +1,5 @@
 body,html{
- background-color: lightpink;
+ background-color: lightblue;
 
 }
 
@@ -14,5 +14,16 @@ font-size: 50px;
 .main{
   padding-left: 10vw;
   padding-top: 35vh;
+}
+.btn{
+  background-color:lightblue;
+  border: none;
+  color: font;
+  padding-top: 35vh;
+  padding: 10px 15px; /* button sizing */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
